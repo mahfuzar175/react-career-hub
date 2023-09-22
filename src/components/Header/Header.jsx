@@ -39,7 +39,7 @@ const Header = () => {
                 {links}
             </ul>
           </div>
-          <a class="btn btn-ghost normal-case text-xl">daisyUI</a>
+          <a class="btn btn-ghost normal-case text-2xl font-extrabold">Carrer Hub</a>
         </div>
         <div class="navbar-center hidden lg:flex">
           <ul class="menu menu-horizontal px-1">
@@ -47,7 +47,7 @@ const Header = () => {
           </ul>
         </div>
         <div class="navbar-end">
-          <a class="btn">Button</a>
+          <a class="btn bg-gradient-to-r from-[#7E90FE] to-[#9873FF] normal-case text-lg font-bold text-white">Star Applying</a>
         </div>
       </div>
     </div>
